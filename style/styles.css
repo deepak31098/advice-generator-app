@@ -63,6 +63,7 @@ body{
   padding: 18px;
   border-radius: 100%;
   display: flex;
+  cursor: pointer;
   justify-content: center;
   align-items: center;
   position: absolute;
